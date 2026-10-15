@@ -1,0 +1,5 @@
+Python is a programming language.
+A list in Python can store multiple values.
+A dictionary stores data as key-value pairs.
+RAG stands for Retrieval-Augmented Generation.
+RAG retrieves relevant information before asking a language model to generate an answer.

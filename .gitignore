@@ -1,0 +1,37 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment / secrets
+.env
+.env.*
+
+# Local databases
+data/
+*.db
+*.sqlite
+*.sqlite3
+
+# Chroma vector database
+chroma_db/
+
+# User-uploaded documents
+documents/
+
+# Node / React
+frontend/node_modules/
+frontend/dist/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
+*.tmp
